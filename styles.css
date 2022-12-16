@@ -1,0 +1,109 @@
+*{}
+
+body{
+
+
+     margin:0;
+}
+.container{
+
+    margin:-19px;
+    background-color: black;
+    color: white;
+    text-align:center;
+    
+}
+.profilepic img{
+padding-top: 30px  ;
+border-radius: 50%;
+
+}
+#youtubeicon{
+
+    padding-bottom: 5px;
+}
+
+#text_handle{
+font-size: 8px;
+font-family:cursive;
+padding-bottom: 15px;
+
+
+}
+.container-2{
+    background-color:azure;
+}
+
+
+.container-2 > h2{
+
+text-align:center;
+padding:10px;
+
+}
+
+table,
+tr,
+td,
+th{
+
+border: 1px solid;
+border-collapse: collapse;
+
+}
+
+
+.table >h2{
+text-align: center;
+background-color: white;
+
+
+}
+
+
+table{
+    width:100%;
+    color: darkcyan;
+    
+}
+td{
+    color:black ;
+}
+
+p{
+    font-size: 1rem;
+}
+
+th,td
+{
+padding: 8px;
+
+}
+.dynamic-text-color{
+
+    color: aqua;
+
+}
+
+form#contact {
+    color: azure;
+    background-color: rgb(50, 47, 47);
+    max-width: 400px;
+    margin: 100px 250px 100px 300px ;
+    padding: 16px;;
+    border:1px solid;
+border-radius: 16px;
+
+}
+#contact label{
+    display: block;
+    font-weight: 600;
+}
+
+#contact input, 
+#contact textarea,
+#contact button
+{
+width: 100%;
+
+}
